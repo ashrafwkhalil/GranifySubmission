@@ -80,7 +80,7 @@ public class PetShop {
     }
 
     public void logStats() {
-        System.out.println("Printing Log");
+        System.out.println("------------Printing Log------------");
         // for each entry in the log, print it
         for (String logEntry : log) {
             System.out.println(logEntry);
